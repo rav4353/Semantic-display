@@ -1,0 +1,24 @@
+.aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+}
+
+li {
+    display: inline;
+}
+
+span {
+    display: block;
+}
+
+h1.none {
+    display: none;
+}
+
+h1.hidden {
+    visibility: hidden;
+}
